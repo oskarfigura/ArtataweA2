@@ -1,13 +1,13 @@
-package com.group4.artatawe.drawing;
+package com.group1.artatawe.drawing;
 
 import java.util.LinkedList;
 
-import com.group4.artatawe.Main;
-import com.group4.artatawe.drawing.tools.BrushTool;
-import com.group4.artatawe.drawing.tools.CircleTool;
-import com.group4.artatawe.drawing.tools.LineTool;
-import com.group4.artatawe.drawing.tools.SquareTool;
-import com.group4.artatawe.drawing.tools.Tool;
+import com.group1.artatawe.Main;
+import com.group1.artatawe.drawing.tools.BrushTool;
+import com.group1.artatawe.drawing.tools.CircleTool;
+import com.group1.artatawe.drawing.tools.LineTool;
+import com.group1.artatawe.drawing.tools.SquareTool;
+import com.group1.artatawe.drawing.tools.Tool;
 
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -121,7 +121,7 @@ public class DrawingController {
 		DrawingController.WAS_SAVED = false;
 
 		try {
-			FXMLLoader fxmlLoader = new FXMLLoader(Main.class.getResource("/fxml/Drawing.fxml"));     
+			FXMLLoader fxmlLoader = new FXMLLoader(Main.class.getResource("/fxml/Drawing.fxml"));
 
 			BorderPane pane = (BorderPane) fxmlLoader.load();          
 

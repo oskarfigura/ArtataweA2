@@ -1,12 +1,12 @@
-package com.group4.artatawe.listings;
+package com.group1.artatawe.listings;
 
 import java.util.Map.Entry;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-import com.group4.artatawe.Main;
-import com.group4.artatawe.accounts.Account;
-import com.group4.artatawe.artwork.Artwork;
+import com.group1.artatawe.Main;
+import com.group1.artatawe.accounts.Account;
+import com.group1.artatawe.artwork.Artwork;
 
 /**
  * Represent a single Listing / Auction for a Artwork.

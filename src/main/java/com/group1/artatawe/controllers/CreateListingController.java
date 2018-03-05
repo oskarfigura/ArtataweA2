@@ -1,17 +1,17 @@
-package com.group4.artatawe.controllers;
+package com.group1.artatawe.controllers;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.LinkedList;
 import java.util.List;
 
-import com.group4.artatawe.Main;
-import com.group4.artatawe.artwork.Artwork;
-import com.group4.artatawe.artwork.Painting;
-import com.group4.artatawe.artwork.Sculpture;
-import com.group4.artatawe.utils.AlertUtil;
-import com.group4.artatawe.utils.ImageUtil;
-import com.group4.artatawe.utils.NumUtil;
+import com.group1.artatawe.Main;
+import com.group1.artatawe.utils.AlertUtil;
+import com.group1.artatawe.utils.NumUtil;
+import com.group1.artatawe.artwork.Artwork;
+import com.group1.artatawe.artwork.Painting;
+import com.group1.artatawe.artwork.Sculpture;
+import com.group1.artatawe.utils.ImageUtil;
 
 import javafx.fxml.FXML;
 import javafx.scene.Node;

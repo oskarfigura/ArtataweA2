@@ -1,4 +1,4 @@
-package com.group4.artatawe.managers;
+package com.group1.artatawe.managers;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -6,10 +6,10 @@ import java.util.NoSuchElementException;
 import java.util.stream.Collectors;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-import com.group4.artatawe.accounts.Account;
-import com.group4.artatawe.artwork.Artwork;
-import com.group4.artatawe.listings.Listing;
-import com.group4.artatawe.listings.ListingState;
+import com.group1.artatawe.accounts.Account;
+import com.group1.artatawe.artwork.Artwork;
+import com.group1.artatawe.listings.Listing;
+import com.group1.artatawe.listings.ListingState;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;

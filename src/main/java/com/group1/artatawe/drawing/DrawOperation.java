@@ -1,4 +1,4 @@
-package com.group4.artatawe.drawing;
+package com.group1.artatawe.drawing;
 
 import javafx.scene.canvas.GraphicsContext;
 

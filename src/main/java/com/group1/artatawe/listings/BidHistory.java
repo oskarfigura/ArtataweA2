@@ -1,4 +1,4 @@
-package com.group4.artatawe.listings;
+package com.group1.artatawe.listings;
 
 import java.util.Iterator;
 import java.util.LinkedList;
@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-import com.group4.artatawe.accounts.Account;
+import com.group1.artatawe.accounts.Account;
 
 /**
  * BidHistory will store all the different bids made on a Listing

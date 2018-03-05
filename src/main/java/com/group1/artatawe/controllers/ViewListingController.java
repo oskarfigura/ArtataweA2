@@ -1,17 +1,17 @@
-package com.group4.artatawe.controllers;
+package com.group1.artatawe.controllers;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import com.group4.artatawe.Main;
-import com.group4.artatawe.accounts.Account;
-import com.group4.artatawe.artwork.Painting;
-import com.group4.artatawe.artwork.Sculpture;
-import com.group4.artatawe.listings.Bid;
-import com.group4.artatawe.listings.Listing;
-import com.group4.artatawe.listings.ListingState;
-import com.group4.artatawe.utils.AlertUtil;
-import com.group4.artatawe.utils.NumUtil;
+import com.group1.artatawe.Main;
+import com.group1.artatawe.utils.AlertUtil;
+import com.group1.artatawe.utils.NumUtil;
+import com.group1.artatawe.accounts.Account;
+import com.group1.artatawe.artwork.Painting;
+import com.group1.artatawe.artwork.Sculpture;
+import com.group1.artatawe.listings.Bid;
+import com.group1.artatawe.listings.Listing;
+import com.group1.artatawe.listings.ListingState;
 
 import javafx.fxml.FXML;
 import javafx.geometry.Pos;

@@ -1,8 +1,8 @@
-package com.group4.artatawe.drawing.tools;
+package com.group1.artatawe.drawing.tools;
 
 import java.util.LinkedList;
 
-import com.group4.artatawe.drawing.DrawingController;
+import com.group1.artatawe.drawing.DrawingController;
 
 import javafx.scene.paint.Color;
 

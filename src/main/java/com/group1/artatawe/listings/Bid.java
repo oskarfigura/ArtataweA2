@@ -1,4 +1,4 @@
-package com.group4.artatawe.listings;
+package com.group1.artatawe.listings;
 
 /**
  * Represents a single bid made on a Listing

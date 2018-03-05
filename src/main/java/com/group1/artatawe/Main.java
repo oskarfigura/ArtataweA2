@@ -1,9 +1,9 @@
-package com.group4.artatawe;
+package com.group1.artatawe;
 
 import java.io.IOException;
 
-import com.group4.artatawe.managers.AccountManager;
-import com.group4.artatawe.managers.ListingManager;
+import com.group1.artatawe.managers.AccountManager;
+import com.group1.artatawe.managers.ListingManager;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

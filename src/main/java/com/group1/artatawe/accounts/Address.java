@@ -1,4 +1,4 @@
-package com.group4.artatawe.accounts;
+package com.group1.artatawe.accounts;
 
 /**
  * Store all information in an Address

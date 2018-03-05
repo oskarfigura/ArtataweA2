@@ -1,4 +1,4 @@
-package com.group4.artatawe.managers;
+package com.group1.artatawe.managers;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -9,9 +9,9 @@ import java.util.Scanner;
 
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-import com.group4.artatawe.Main;
-import com.group4.artatawe.accounts.Account;
-import com.group4.artatawe.accounts.Address;
+import com.group1.artatawe.Main;
+import com.group1.artatawe.accounts.Account;
+import com.group1.artatawe.accounts.Address;
 
 import javafx.scene.image.Image;
 

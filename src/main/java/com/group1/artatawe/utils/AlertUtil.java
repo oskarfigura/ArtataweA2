@@ -1,4 +1,4 @@
-package com.group4.artatawe.utils;
+package com.group1.artatawe.utils;
 
 import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;

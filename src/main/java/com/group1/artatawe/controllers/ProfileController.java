@@ -1,13 +1,13 @@
-package com.group4.artatawe.controllers;
+package com.group1.artatawe.controllers;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.LinkedList;
 
-import com.group4.artatawe.Main;
-import com.group4.artatawe.accounts.Account;
-import com.group4.artatawe.listings.Listing;
-import com.group4.artatawe.utils.GridUtil;
+import com.group1.artatawe.Main;
+import com.group1.artatawe.accounts.Account;
+import com.group1.artatawe.listings.Listing;
+import com.group1.artatawe.utils.GridUtil;
 
 import javafx.fxml.FXML;
 import javafx.scene.Node;

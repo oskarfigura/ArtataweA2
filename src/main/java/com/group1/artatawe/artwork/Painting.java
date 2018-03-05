@@ -1,7 +1,7 @@
-package com.group4.artatawe.artwork;
+package com.group1.artatawe.artwork;
 
 import com.google.gson.JsonObject;
-import com.group4.artatawe.listings.Listing;
+import com.group1.artatawe.listings.Listing;
 
 import javafx.scene.image.Image;
 
@@ -18,7 +18,7 @@ public class Painting extends Artwork {
 	 * 
 	 * @param height - The height of the painting
 	 * @param width  - The width of the painting
-	 * @see {@link com.group4.artatawe.artwork.Artwork#Artwork Artwork}'s constructor for more parameter descriptions.
+	 * @see {@link Artwork#Artwork Artwork}'s constructor for more parameter descriptions.
 	 */
 	public Painting(String title, String desc, Image img, String artist, int year, 
 			double height, double width) {
